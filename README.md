@@ -1,6 +1,26 @@
-- 👋 Hi, I’m @Ankitkrjha32
-- 👀 I’m interested in  Full Stack Web Development 
-- 🌱 I’m currently learning DSA 
+# 💫 Hi 👋, I'm Ankit Kumar Jha
+**A passionate Software Engineer || Software Developer || Problem Solver**
+
+Email Me 👉 ✉️ **ankitkrjha32@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** CRRI Project IT WorkFlow Based Resolution system
+  
+
+- 
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:**  **ankitkrjha32@gmail.com**
+
+  
+
+## 🔗 Fixing life bugs , Deploying in kismat 😊😊
+
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
   
 
 ## 🌐 Socials:
