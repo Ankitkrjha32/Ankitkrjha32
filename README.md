@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **ankitkrjha32@gmail.com** For Collaboration/Project or Any
 - 🔭 **I’m currently working on:** CRRI Project IT WorkFlow Based Resolution system
   
 
-- 
+- Visit linkdein for more info about myself
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:**  **ankitkrjha32@gmail.com**
 
