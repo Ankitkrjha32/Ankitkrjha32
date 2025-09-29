@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ankit Kumar Jha
+# Hi I'm Ankit Kumar Jha
 **A passionate Software Engineer || Software Developer || Problem Solver**
 
 Email Me 👉 ✉️ **ankitkrjha32@gmail.com** For Collaboration/Project or Anything Else. 😊😊
